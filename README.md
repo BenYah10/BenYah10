@@ -42,3 +42,54 @@ This GitHub portfolio showcases the projects I build, the solutions I design and
 - AI Solutions
 - Digital Transformation
 - Technical Documentation
+
+---
+
+# Featured Projects
+
+## BlueKiosk Ecosystem
+**Clean-Tech Product Ecosystem · Product Strategy · Functional Analysis**
+
+BlueKiosk is a clean-tech initiative focused on developing self-service hygiene solutions for reusable bottles. The ecosystem currently includes a product validation platform, a corporate website and an educational content platform.
+
+**What this project demonstrates:** product vision, market validation, requirements analysis, digital product design and ecosystem thinking.
+
+- [BlueKiosk Product Experience](https://github.com/BenYah10/bluekiosk-site)
+- [BlueKiosk Corporate Website](https://github.com/BenYah10/bluekiosktech-coming-soon)
+- [BlueKiosk Knowledge Platform](https://github.com/BenYah10/bluekiosktech-blog)
+
+**Status:** Active development
+
+---
+
+## Ben's Executive English Coach
+**AI Learning Product · Product Architecture · Knowledge Design**
+
+An AI-powered Executive English learning platform designed to help professionals improve communication through structured learning paths, personalized coaching and a scalable knowledge architecture.
+
+**What this project demonstrates:** AI product design, learning experience design, prompt engineering, documentation governance and product architecture.
+
+**Status:** Private development  
+**Public documentation:** Planned
+
+---
+
+## BIXI Analytics Dashboard
+**Business Intelligence · Power BI · Operational Analytics**
+
+A Power BI dashboard built with real-world BIXI Montréal data to monitor bike availability, identify saturated or empty stations and analyze operational usage patterns.
+
+**What this project demonstrates:** data modeling, DAX, Power Query, KPI design, operational reporting and visual analytics.
+
+**Status:** Portfolio project
+
+---
+
+## TripScore
+**Travel Intelligence Product · Product Discovery · Recommendation Design**
+
+A travel platform concept designed to transform traveler preferences, community insights and destination data into personalized itineraries and more transparent travel decisions.
+
+**What this project demonstrates:** product discovery, functional analysis, recommendation logic, user segmentation and platform strategy.
+
+**Status:** Product design phase
