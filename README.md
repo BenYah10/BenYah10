@@ -20,3 +20,25 @@ My work bridges the gap between business and technology by combining **functiona
 Beyond my professional experience, I enjoy designing digital products from the ground up—from product vision and architecture to documentation, user experience and continuous improvement.
 
 This GitHub portfolio showcases the projects I build, the solutions I design and my approach to creating products that deliver real business value.
+
+---
+
+# Core Expertise
+
+### 📊 Business & Product
+
+- Functional Analysis
+- System Analysis
+- Product Management
+- Requirements Engineering
+- Business Process Modeling
+- Agile & Scrum
+
+### 💻 Data & Technology
+
+- Business Intelligence
+- Power BI
+- Data Analysis
+- AI Solutions
+- Digital Transformation
+- Technical Documentation
