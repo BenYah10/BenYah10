@@ -93,3 +93,22 @@ A travel platform concept designed to transform traveler preferences, community 
 **What this project demonstrates:** product discovery, functional analysis, recommendation logic, user segmentation and platform strategy.
 
 **Status:** Product design phase
+
+---
+
+# Current Focus
+
+I'm continuously building products, expanding my expertise and transforming ideas into real-world digital solutions.
+
+### 🚀 Product Development
+- Building the **BlueKiosk Ecosystem**
+- Developing **Ben's Executive English Coach**
+- Designing **TripScore**, a travel intelligence platform
+
+### 📊 Professional Growth
+- Expanding my Business Intelligence portfolio with **Power BI**
+- Preparing for the **Microsoft PL-300 Certification**
+- Exploring AI applications for product design and business analysis
+
+### 🎯 Long-Term Vision
+Creating digital products that combine **business analysis, artificial intelligence and product thinking** to solve real-world problems and deliver measurable business value.
