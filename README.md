@@ -112,3 +112,13 @@ I'm continuously building products, expanding my expertise and transforming idea
 
 ### 🎯 Long-Term Vision
 Creating digital products that combine **business analysis, artificial intelligence and product thinking** to solve real-world problems and deliver measurable business value.
+
+---
+
+# Professional Journey
+
+I believe that successful digital products begin with a deep understanding of business needs.
+
+Throughout my career, I have focused on bridging the gap between business and technology by transforming complex requirements into structured, scalable and user-centered solutions. Working on operational systems, business intelligence initiatives and product-driven projects has strengthened both my analytical mindset and my passion for building products with purpose.
+
+Today, I continue this journey by developing personal projects that combine **functional analysis, AI, business intelligence and product thinking**—always with the same objective: creating digital solutions that deliver measurable value for users and organizations.
