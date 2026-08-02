@@ -101,9 +101,9 @@ A travel platform concept designed to transform traveler preferences, community 
 I'm continuously building products, expanding my expertise and transforming ideas into real-world digital solutions.
 
 ### 🚀 Product Development
-- Building the **BlueKiosk Ecosystem**
-- Developing **Ben's Executive English Coach**
-- Designing **TripScore**, a travel intelligence platform
+- Building the **BlueKioskTech Ecosystem**
+- Developing **BIXI Operations Dashboard**
+- Designing **TripScore AI**, a travel intelligence platform
 
 ### 📊 Professional Growth
 - Expanding my Business Intelligence portfolio with **Power BI**
