@@ -3,7 +3,7 @@
 Transforming business needs
 into scalable digital products.
 
-Ben Yahmed Mohamed
+Mohamed Ben Yahmed
 
 Functional Analyst • System Analyst • Product Builder
 
