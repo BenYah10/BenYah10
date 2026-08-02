@@ -50,7 +50,7 @@ This GitHub portfolio showcases the projects I build, the solutions I design and
 ## BlueKioskTech Ecosystem
 **Clean-Tech Product Ecosystem · Product Strategy · Functional Analysis**
 
-BlueKiosk is a clean-tech initiative focused on developing self-service hygiene solutions for reusable bottles. The ecosystem currently includes a product validation platform, a corporate website and an educational content platform.
+BlueKioskTech is a clean-tech product ecosystem focused on developing self-service hygiene solutions for reusable bottles. The ecosystem currently includes a product validation platform, a corporate website and an educational content platform.
 
 **What this project demonstrates:** product vision, market validation, requirements analysis, digital product design and ecosystem thinking.
 
@@ -101,10 +101,11 @@ A travel platform concept designed to transform traveler preferences, community 
 I'm continuously building products, expanding my expertise and transforming ideas into real-world digital solutions.
 
 ### 🚀 Product Development
+
 - Building the **BlueKioskTech Ecosystem**
-- Developing **BIXI Operations Dashboard**
-- Designing **TripScore AI**, a travel intelligence platform
-- Designing TripScore AI
+- Developing **Executive AI English Coach**
+- Expanding **BIXI Operations Dashboard**
+- Designing **TripScore AI**
 
 ### 📊 Professional Growth
 - Expanding my Business Intelligence portfolio with **Power BI**
