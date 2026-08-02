@@ -62,7 +62,7 @@ BlueKiosk is a clean-tech initiative focused on developing self-service hygiene 
 
 ---
 
-## Ben's Executive English Coach
+## Executive AI English Coach
 **AI Learning Product · Product Architecture · Knowledge Design**
 
 An AI-powered Executive English learning platform designed to help professionals improve communication through structured learning paths, personalized coaching and a scalable knowledge architecture.
@@ -74,7 +74,7 @@ An AI-powered Executive English learning platform designed to help professionals
 
 ---
 
-## BIXI Analytics Dashboard
+## BIXI Operations Dashboard
 **Business Intelligence · Power BI · Operational Analytics**
 
 A Power BI dashboard built with real-world BIXI Montréal data to monitor bike availability, identify saturated or empty stations and analyze operational usage patterns.
@@ -85,7 +85,7 @@ A Power BI dashboard built with real-world BIXI Montréal data to monitor bike a
 
 ---
 
-## TripScore
+## TripScore AI
 **Travel Intelligence Product · Product Discovery · Recommendation Design**
 
 A travel platform concept designed to transform traveler preferences, community insights and destination data into personalized itineraries and more transparent travel decisions.
