@@ -104,6 +104,7 @@ I'm continuously building products, expanding my expertise and transforming idea
 - Building the **BlueKioskTech Ecosystem**
 - Developing **BIXI Operations Dashboard**
 - Designing **TripScore AI**, a travel intelligence platform
+- Designing TripScore AI
 
 ### 📊 Professional Growth
 - Expanding my Business Intelligence portfolio with **Power BI**
