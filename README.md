@@ -54,9 +54,9 @@ BlueKiosk is a clean-tech initiative focused on developing self-service hygiene 
 
 **What this project demonstrates:** product vision, market validation, requirements analysis, digital product design and ecosystem thinking.
 
-- [BlueKiosk Product Experience](https://github.com/BenYah10/bluekiosk-site)
-- [BlueKiosk Corporate Website](https://github.com/BenYah10/bluekiosktech-coming-soon)
-- [BlueKiosk Knowledge Platform](https://github.com/BenYah10/bluekiosktech-blog)
+- [BlueKioskTech Product Experience](https://github.com/BenYah10/bluekiosk-site)
+- [BlueKioskTech Corporate Website](https://github.com/BenYah10/bluekiosktech-coming-soon)
+- [BlueKioskTech Knowledge Platform](https://github.com/BenYah10/bluekiosktech-blog)
 
 **Status:** Active development
 
