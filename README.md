@@ -47,7 +47,7 @@ This GitHub portfolio showcases the projects I build, the solutions I design and
 
 # Featured Projects
 
-## BlueKiosk Ecosystem
+## BlueKioskTech Ecosystem
 **Clean-Tech Product Ecosystem · Product Strategy · Functional Analysis**
 
 BlueKiosk is a clean-tech initiative focused on developing self-service hygiene solutions for reusable bottles. The ecosystem currently includes a product validation platform, a corporate website and an educational content platform.
