@@ -60,6 +60,16 @@ BlueKioskTech is a clean-tech product ecosystem focused on developing self-servi
 
 **Status:** Active development
 
+
+## BIXI Operations Dashboard
+**Business Intelligence · Power BI · Operational Analytics**
+
+A Power BI dashboard built with real-world BIXI Montréal data to monitor bike availability, identify saturated or empty stations and analyze operational usage patterns.
+
+**What this project demonstrates:** data modeling, DAX, Power Query, KPI design, operational reporting and visual analytics.
+
+**Status:** Portfolio project
+
 ---
 
 ## Executive AI English Coach
@@ -71,17 +81,6 @@ An AI-powered Executive English learning platform designed to help professionals
 
 **Status:** Private development  
 **Public documentation:** Planned
-
----
-
-## BIXI Operations Dashboard
-**Business Intelligence · Power BI · Operational Analytics**
-
-A Power BI dashboard built with real-world BIXI Montréal data to monitor bike availability, identify saturated or empty stations and analyze operational usage patterns.
-
-**What this project demonstrates:** data modeling, DAX, Power Query, KPI design, operational reporting and visual analytics.
-
-**Status:** Portfolio project
 
 ---
 
